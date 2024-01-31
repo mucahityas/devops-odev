@@ -7,3 +7,4 @@ cevap vermektedir.
 Kaynak kodu indirip ide üzerinde çalıştıranlar için active profile olarak dev tanımlamalıdırlar. Aksi taktirde prod ayarlarıyla çalışacaktır. 
 
 ## Docker ile çalıştırma
+
