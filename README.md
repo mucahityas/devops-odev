@@ -8,4 +8,3 @@ Kaynak kodu indirip ide üzerinde çalıştıranlar için active profile olarak 
 
 ## Docker ile çalıştırma
 
-
